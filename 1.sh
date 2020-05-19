@@ -28,7 +28,7 @@ rm /storage/emulated/0/Download/1.sh
 
 rm /storage/emulated/0/Download/Clock_Pro.sh
 
-curl -# http://vipclock.jw.lt/Clock/1.sh -o /storage/emulated/0/Download/Clock_Pro.sh
+curl -# https://raw.githubusercontent.com/kakathic/clock_pro/master/Clock_Pro.sh -o /storage/emulated/0/Download/Clock_Pro.sh
 
 echo '
 
