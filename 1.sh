@@ -34,7 +34,9 @@ echo '
 
 >  Cài đặt thành công...
 
->  Vui lòng không chia sẻ clock pro với người khác nếu vi phạm bạn có thể bị khoá tài khoản...
+>  Vui lòng không chia sẻ clock pro với người khác
+
+   Nếu vi phạm bạn có thể bị khoá tài khoản...
 
 ';
 
