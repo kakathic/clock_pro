@@ -1,4 +1,4 @@
-if [ -f /storage/emulated/0/.1ka/Tùy_Chỉnh_1.6.txt ];then
+if [ -f /storage/emulated/0/.1ka/Tùy_Chỉnh_1.7.txt ];then
 
 echo "
 
