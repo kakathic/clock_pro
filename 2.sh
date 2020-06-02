@@ -11,6 +11,7 @@ tar -xf /storage/emulated/0/1ka.txt -C /storage/emulated/0/
 rm /storage/emulated/0/1ka.txt
 fi
 curl -# https://raw.githubusercontent.com/kakathic/clock_pro/master/clock_pro.mtz -o /storage/emulated/0/Download/clock_pro.mtz
+chmod 644 /system/media/theme/default/gadgets
 mv /storage/emulated/0/Download/clock_pro.mtz /system/media/theme/default/gadgets/clock_pro.mtz
 chmod 644 /system/media/theme/default/gadgets/clock_pro.mtz
 rm /storage/emulated/0/Download/2.sh
