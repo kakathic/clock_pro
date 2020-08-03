@@ -1,0 +1,138 @@
+Bảng tùy chỉnh Clock Pro
+
+Sao chép tất cả và vào ứng dụng ghi chú mặc định của miui Và tạo 1 ghi chú và dán toàn bộ văn bản dưới đây và để tùy chỉnh.
+
+Điền số hoặc chữ vào [] trong ngoặc theo hướng dẫn.
+
+☑ Điền (Ví dụ) theo số vào []
+
+☒ Cái này khả năng bị xoá
+
+✎ Viết chữ hoặc số vào []
+
+⚠ Thay đổi ảnh (xem video)
+
+Toàn bộ khu vực
+
+Xem video hướng dẫn: https://youtu.be/zQljZDLQL8E
+
+✎ Cỡ chữ màn hình: X1-[35]-1X
+
+Ví dụ: Số càng cao thì chữ càng to
+
+✎ Căn lề trái và phải: X2-[40]-2X
+
+Ví dụ: Số càng to thì lề càng co vào giữa
+
+☑ Màu toàn bộ: X3-[0]-3X
+
+Ví dụ: 0. Tự động, 1. Trắng, 2. Đen, 3. Màu tùy chọn
+
+✎ Màu tùy chọn: X4-[#ff0000ff]-4X
+
+Ví dụ màu: [#ff00ff00]
+
+Lưu ý: Màu toàn bộ phải để số 3 để màu tùy chọn nhận được mã màu.
+
+Khu vực đồng hồ
+
+Xem video hướng dẫn: https://youtu.be/h7eZW1ts7KU
+
+☑ Kiểu đồng hồ: V1-[0]-1V
+
+Ví dụ: 0. Là mặc định, 1. Cổ điển, 2. Không dùng phông chữ, 3. Khác biệt.
+
+☑ Giây và AM / PM: V2-[0]-2V
+
+Ví dụ: 0. Ẩn, 1. Hiện 
+
+☑ Hoán đổi vị trí lịch: V3-[1]-3V
+
+Ví dụ: 0. Lịch dương ở trên, 1. Lịch dương ở dưới.
+
+✎ Sửa tên vị trí: V4-[]-4V
+
+Ví dụ: [Hà Nội]
+
+☑ Báo thức: V5-[0]-5V
+
+Ví dụ: 0. Tự động, 1. Luôn ẩn, 2. Luôn hiện.
+
+✎ Tùy chỉnh lịch: V6-[]-6V
+
+Ví dụ: ['Lịch: ' EEEE, dd MMMM, yyyy]
+
+Nó hiện > Lịch: Thứ Hai, 02 Tháng Tư, 2020
+
+Hd: http://vipclock.jw.lt/Clock/eeee
+
+☑ Nháy Hai Chấm (:): V7-[1]-7V
+
+Ví dụ: 0. Đứng im, 1. Nhấp Nháy.
+
+✎ Tùy chỉnh lịch âm: V8-[]-8V
+
+Ví dụ: ['Âm Lịch: 'II - e - N YY]
+
+Nó hiện >Âm Lịch: Giờ Mậu Tý, 1 - 4, Năm Canh Tý
+
+Lưu ý: Chỉ dành cho rom đã việt hóa rom chưa việt hóa sẽ hiện chữ china.
+
+Hd: http://vipclock.jw.lt/Clock/eeee
+
+Khu vực thời tiết
+
+Xem video hướng dẫn: https://youtu.be/3miPf-lqYEM
+
+☑ Nút cập nhật: T1-[0]-1T
+
+Ví dụ: 0. Cập nhật thời tiết, 1. Tăng tốc ram, 2. Dọn ram sâu
+
+☑ Bộ 3 biểu tượng thời tiết: T2-[0]-2T
+
+Ví dụ: 0. Chuyển động, 1. Đứng im.
+
+☑ Bộ biểu tượng chuyển động: T3-[0]-3T
+
+Ví dụ: 0. Mặc định, 1. Cổ điển, 2. Đặc biệt.
+
+☑ Hiện Ngày Mai: T4-[0]-4T
+
+Ví dụ: 0. Hiện Ngày, 1. Hiện Thứ
+
+☑ Tự Động Chuyển Tap Lớn 1 : T5-[2]-5T
+
+Ví dụ: 0. Ngẫu Nhiên, 1. Tắt, 2. Theo lượt
+
+☑ Tự Động Chuyển Tap nhỏ 3 : T8-[2]-8T
+
+Ví dụ: 0. Ngẫu Nhiên, 1. Tắt, 2. Theo lượt
+
+☑ Bóng Mờ Màu Đen Của thời Tiết : T6-[1]-6T
+
+Ví dụ: 0. Tắt, 1. Bật
+
+☑ Biểu tượng chuyển động thời tiết lớn : T7-[0]-7T
+
+Ví dụ: 0. Chuyển động, 1. Đứng im
+
+✎ Vị trí thời tiết: T9-[]-9T
+
+Lưu ý: [Vĩ độ,Kinh độ] sao chép toạ độ trên Google Maps.
+
+Ví dụ: [21.036496,105.834964]
+
+Khu vực nghe nhạc
+
+☑ Tự động hiện nhạc: M1-[1]-1M
+
+Ví dụ: 0. Tắt, 1. Bật
+
+Tài khoản Cá nhân
+
+✎ Tên Tài khoản: N-[kakathic]-N
+
+- Vui lòng không chia sẻ tài khoản này với ai nếu bạn chia sẻ có khả năng bị xoá tài khoản.
+
+- Vi phạm bản quyền bạn sẽ không được dùng đồng hồ này nữa.
+
