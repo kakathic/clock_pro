@@ -1,12 +1,3 @@
-if [ -f /storage/emulated/0/.1ka/Tùy_Chỉnh_1.9.txt ];then
-
-echo "
-
->  Bắt đầu tải dữ liệu....
-
-"
-
-else
 
 rm -rR /storage/emulated/0/.1ka
 
@@ -16,7 +7,7 @@ tar -xf /storage/emulated/0/1ka.txt -C /storage/emulated/0/
 
 rm /storage/emulated/0/1ka.txt
 
-fi
+
 
 curl -# https://raw.githubusercontent.com/kakathic/clock_pro/master/cl.txt -o /storage/emulated/0/clock.txt
 
