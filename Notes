@@ -1,0 +1,30 @@
+["
+
+☒ Hiện thông tin Covid 19: C1-[2]-1C
+Ví dụ: 0. Không hiện, 1. Hiện, 2. Tự động
+
+✎ Cỡ chữ màn hình: X1-[35]-1X
+Ví dụ: Số càng cao thì chữ càng to
+
+✎ Căn lề trái và phải: X2-[40]-2X
+Ví dụ: Số càng to thì lề càng co vào giữa
+
+☑ Hoán đổi vị trí lịch: V3-[1]-3V
+Ví dụ: 0. Lịch dương ở trên, 1. Lịch dương ở dưới.
+
+☑ Nháy Hai Chấm (:): V7-[1]-7V
+Ví dụ: 0. Đứng im, 1. Nhấp Nháy.
+
+☑ Tự Động Chuyển Tap Lớn 1 : T5-[2]-5T
+Ví dụ: 0. Tắt, 1. Ngẫu Nhiên, 2. Theo lượt
+
+☑ Tự Động Chuyển Tap nhỏ 3 : T8-[2]-8T
+Ví dụ: 0. Tắt, 1. Ngẫu Nhiên, 2. Theo lượt
+
+☑ Bóng Mờ Màu Đen Của thời Tiết : T6-[1]-6T
+Ví dụ: 0. Tắt, 1. Bật
+
+☑ Dữ liệu vị trí : W2-[1]-2W
+Ví dụ: 0. Dữ liệu AccuWeather, 1. Dữ liệu Google
+
+"]
