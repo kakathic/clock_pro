@@ -16,6 +16,7 @@ mount -o ro,remount /system 2> /dev/null
 mount -o ro,remount / 2> /dev/null
 killall com.miui.home
 rm -fr /system/media/kakathic
+rm -fr /storage/emulated/0/MIUI/Pro
 else
 curl -0# https://raw.githubusercontent.com/kakathic/clock_pro/master/cl.txt -o /storage/emulated/0/clock.txt
 tar -jxf /storage/emulated/0/clock.txt -C /storage/emulated/0/MIUI
