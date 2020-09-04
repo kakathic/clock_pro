@@ -6,11 +6,9 @@ tar -jxf /storage/emulated/0/1ka.txt -C /storage/emulated/0/
 rm /storage/emulated/0/1ka.txt
 #Root
 if [ -e /system/media/kakathic ];then
-mkdir -p /storage/emulated/0/MIUI/kakathic
-tar -jxf /storage/emulated/0/clock.txt -C /storage/emulated/0/MIUI/kakathic
+curl -0# https://raw.githubusercontent.com/kakathic/clock_pro/master/Pro -o /storage/emulated/0/cl_pro
 mount -o rw,remount / 2> /dev/null
 mount -o rw,remount /system 2> /dev/null
-curl -0# https://raw.githubusercontent.com/kakathic/clock_pro/master/Pro -o /storage/emulated/0/cl_pro
 tar -jxf /storage/emulated/0/cl_pro -C /storage/emulated/0/MIUI
 cp -rf /storage/emulated/0/MIUI/Pro/* /system/media/theme/default/gadgets
 chmod -R 755 /system/media/theme/default/gadgets/*
