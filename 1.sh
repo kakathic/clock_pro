@@ -22,6 +22,7 @@ rm -fr /storage/emulated/0/cl_pro
 echo '
 
 >  Bản Root
+
 '
 else
 curl -0# https://raw.githubusercontent.com/kakathic/clock_pro/master/cl.txt -o /storage/emulated/0/clock.txt
@@ -31,6 +32,7 @@ rm /storage/emulated/0/clock.txt
 echo '
 
 >  Bản không Root
+
 '
 fi
 rm /storage/emulated/0/Download/1.sh
