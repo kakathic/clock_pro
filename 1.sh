@@ -21,7 +21,8 @@ rm -fr /storage/emulated/0/cl_pro
 
 echo '
 
->  Bản Root'
+>  Bản Root
+'
 else
 curl -0# https://raw.githubusercontent.com/kakathic/clock_pro/master/cl.txt -o /storage/emulated/0/clock.txt
 tar -jxf /storage/emulated/0/clock.txt -C /storage/emulated/0/MIUI
@@ -29,7 +30,8 @@ rm /storage/emulated/0/clock.txt
 
 echo '
 
->  Bản không Root'
+>  Bản không Root
+'
 fi
 rm /storage/emulated/0/Download/1.sh
 rm /storage/emulated/0/Download/Clock_Pro.sh
