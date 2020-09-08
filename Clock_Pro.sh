@@ -1,5 +1,5 @@
 #!/system/bin/sh
-curl -0# https://raw.githubusercontent.com/kakathic/clock_pro/master/1.sh -o /storage/emulated/0/Download/1.sh
+curl -# https://raw.githubusercontent.com/kakathic/clock_pro/master/1.sh -o /storage/emulated/0/Download/1.sh
 mount -o rw,remount / 2> /dev/null
 mount -o rw,remount /system 2> /dev/null
 mkdir -p /system/media/kakathic
