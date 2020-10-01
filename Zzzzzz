@@ -1,4 +1,6 @@
- <as>AS131429 MOBIFONE Corporation</as>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <as>AS131429 MOBIFONE Corporation</as>
    <city>Hanoi</city>
    <country>Vietnam</country>
    <countryCode>VN</countryCode>
@@ -12,3 +14,4 @@
    <status>success</status>
    <timezone>Asia/Bangkok</timezone>
    <zip />
+</root>
