@@ -1,4 +1,7 @@
 ["
+k1-[2]-1k
+
+N-[kakalike]-N
 
 ☒ Hiện thông tin Covid 19: C1-[2]-1C
 Ví dụ: 0. Không hiện, 1. Hiện, 2. Tự động
@@ -27,7 +30,4 @@ Ví dụ: 0. Tắt, 1. Bật
 ☑ Dữ liệu vị trí : W2-[1]-2W
 Ví dụ: 0. Dữ liệu AccuWeather, 1. Dữ liệu Google
 
-k1-[2]-1k
-
-N-[kakalike]-N
 "]
