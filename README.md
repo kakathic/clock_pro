@@ -1,8 +1,21 @@
-# clock_pro
-Xin chào
+# Clock MIUI
 
-Clock Pro
+Cách cài đặt clock, bạn dùng bất cứ ứng dụng nào chạy được shell
+Nên dùng Mt manager.
 
-Nhiều tiện ích. thời tiết online. Hoàn toàn không dùng ứng dụng .
+Ấn vào file và chọn Execute
 
-Tiện ích ghi chú mới.
+Nhập số tương ứng để cài đặt.
+
+Đối với phiên bản pro chỉ có tiếng việt.
+
+Còn phiên bản vip có 3 ngôn ngữ Tiếng Việt, Tiếng Anh, Tiếng Nga.
+
+
+Tải:
+
+### Clock Pro
+
+
+### Clock Vip
+
