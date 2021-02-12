@@ -1,3 +1,4 @@
+clear
 tx() {
 echo
 echo "- Đang tải xuống..."
