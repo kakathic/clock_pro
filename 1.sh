@@ -90,6 +90,8 @@ osaka
 else
 echo "
 -  Nhập sai.
+
+-  Nếu quá 2 giây thông báo này không biến mất vui lòng tải lại Clock_pro.sh
 "
 sleep 2
 clear
