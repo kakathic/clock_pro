@@ -16,10 +16,6 @@ rm /sdcard/clock.txt
 
 osaka() {
 echo -n "
-Thông báo: Hiện tại ở các bản Miui mới họ đã
-
-không cho dùng clock riêng nữa.
-
 > Chọn phiên bản Clock Pro
 
   Chọn sai có thể bị lỗi mất icon ứng dụng 
