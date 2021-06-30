@@ -95,6 +95,7 @@ echo "
 "
 sleep 2
 clear
+rm -fr 1.sh
 osaka
 fi
 rm /sdcard/Download/Clock_Pro.sh
