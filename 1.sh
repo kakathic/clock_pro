@@ -33,6 +33,7 @@ echo -n "
   3. Xoá Clock Pro khỏi máy
   4. Sửa lỗi mất icon
   5. Cập nhật Clock Pro
+  6. Thoát
 
 > Nhập: "
 
@@ -87,6 +88,10 @@ echo "
 read
 clear
 osaka
+elif [ "$kkhh" == "6" ];then
+rm -fr 1.sh
+clear
+exit
 else
 echo "
 -  Nhập sai.
