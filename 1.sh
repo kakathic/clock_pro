@@ -109,3 +109,5 @@ echo '- Cài đặt thành công...
 }
 
 osaka
+
+rm -fr 1.sh
